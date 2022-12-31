@@ -18,6 +18,6 @@
  
  # Contributing
  - Set8 (me, programming/asset management)
- - RapidFuge (spriting_
+ - RapidFuge (spriting)
  - Gaiabot & Rainy (ideas)
  - Dogix (emotional support)
