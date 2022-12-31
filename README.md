@@ -1,6 +1,8 @@
 # Black Gecko
  A fully-featured ARK: Survival Evolved mod made in Unreal Engine!
  
+ [View it on my Steam Profile](https://steamcommunity.com/id/set8/)
+ 
  # Planned Features
  - Uranium Tier
  - Battle-Tek Tier
